@@ -1,0 +1,26 @@
+body{
+	font-family: sans-serif;
+	color: #444;
+}
+
+h1, h2, h3{
+	font-weight: normal;
+}
+
+code{
+	background: #AAAAFF
+}
+
+canvas{
+	border: 1px solid black;
+}
+
+
+video{
+	width: 100%;	
+}
+
+label, textarea{
+	display: block;
+	margin-bottom: .5em;
+}

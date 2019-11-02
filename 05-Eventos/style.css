@@ -1,0 +1,32 @@
+body{
+	font-family: sans-serif;
+	color: #444;
+}
+
+h1, h2, h3{
+	font-weight: normal;
+}
+
+code{
+	background: #AAAAFF
+}
+
+#container{
+	width: 200px;
+	height: 200px;
+	background: yellow;
+	text-align: center;
+}
+
+#button{
+	margin-top: 5em;
+}
+
+.punto{
+	width: 20px;
+	height: 20px;
+	background: tomato;
+	position: absolute;
+	border-radius: 50%;
+	box-shadow: 0 0 5px tomato;
+}
